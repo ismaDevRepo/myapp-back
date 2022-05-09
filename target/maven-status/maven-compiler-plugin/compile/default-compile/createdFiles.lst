@@ -1,0 +1,9 @@
+myApp\MyApplication.class
+myApp\login\LoginController.class
+myApp\entity\PersonEntity.class
+myApp\service\PersonService.class
+myApp\exception\PersonNotFoundException.class
+myApp\service\PersonServiceImpl.class
+myApp\dto\UserLoginDto.class
+myApp\controller\PersonController.class
+myApp\repository\PersonRepository.class

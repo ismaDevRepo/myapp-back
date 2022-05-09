@@ -1,0 +1,4 @@
+myApp\controller\PersonControllerTests.class
+myApp\myApplicationTests.class
+myApp\service\PersonServiceTest.class
+myApp\repository\PersonRepositoryTests.class
